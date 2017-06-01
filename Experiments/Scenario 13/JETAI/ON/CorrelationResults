@@ -1,0 +1,27 @@
+matrix R of correlation coefficients
+
+R =
+
+    1.0000    0.7634
+    0.7634    1.0000
+
+matrix of p-values for testing the hypothesis of no correlation
+
+P =
+
+     1     0
+     0     1
+
+lower bounds for a 95% confidence interval for each coefficient
+
+RLO =
+
+    1.0000    0.7628
+    0.7628    1.0000
+
+upper bounds for a 95% confidence interval for each coefficient
+
+RUP =
+
+    1.0000    0.7641
+    0.7641    1.0000
